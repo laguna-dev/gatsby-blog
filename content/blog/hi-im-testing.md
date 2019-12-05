@@ -1,0 +1,7 @@
+---
+path: hello-netlify
+date: 2019-12-05T20:27:58.830Z
+title: Hi! Im testing!
+description: 'This is the description, maybe ill improve it to show images'
+---
+![alt text](/assets/csharp_logo.png "title")
