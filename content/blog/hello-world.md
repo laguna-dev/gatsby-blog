@@ -1,5 +1,5 @@
 ---
-path: hello-world
+path: hello-world2
 date: 2019-12-05T20:12:32.155Z
 title: Hello World!
 description: 'This is the first post, mainly written for testing purposes'
